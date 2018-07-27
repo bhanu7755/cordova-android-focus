@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-focus",
+  "version": "1.0.0",
+  "description": "Prompts soft keyboard when focus on input field programatically",
+  "cordova": {
+    "id": "cordova-plugin-focus",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Bhanu",
+  "license": "ISC"
+}
