@@ -7,7 +7,8 @@ This helps to emulate click in android app when focus on any input field program
 
 # Usage
 
-```declare var cordova;
+```
+   declare var cordova;
    let element: HTMLElement = document.getElementById('searchTxt');
    cordova.plugins.Focus.focus(element);
    ```
